@@ -1,0 +1,5 @@
+colorama
+requests
+os
+platform
+pystyle
